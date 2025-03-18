@@ -24,7 +24,7 @@
     "@vicons/tabler": "^0.12.0",
     "browser-fs-access": "^0.35.0",
     "filesize": "^10.1.0",
-    "jspdf": "^2.5.1",
+    "jspdf": "^3.0.1",
     "magica-re-export": "^1.0.9",
     "naive-ui": "^2.35.0",
     "pdf-lib": "^1.17.1",
